@@ -1,5 +1,3 @@
-
-
 // !$*UTF8*$!
 {
 	archiveVersion = 1;
@@ -37,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		470C06041D16A5BB00289C6F /* codigo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = codigo.playground; path = ../codigo.playground; sourceTree = "<group>"; };
 		472B243E1D15C6BF00B70BA9 /* Juego.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Juego.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		472B24411D15C6BF00B70BA9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		472B24431D15C6BF00B70BA9 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -81,6 +80,7 @@
 		472B24351D15C6BF00B70BA9 = {
 			isa = PBXGroup;
 			children = (
+				470C06041D16A5BB00289C6F /* codigo.playground */,
 				472B24401D15C6BF00B70BA9 /* Juego */,
 				472B24571D15C6BF00B70BA9 /* JuegoTests */,
 				472B24621D15C6BF00B70BA9 /* JuegoUITests */,
@@ -491,6 +491,7 @@
 				472B246A1D15C6BF00B70BA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		472B246B1D15C6BF00B70BA9 /* Build configuration list for PBXNativeTarget "JuegoTests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +500,7 @@
 				472B246D1D15C6BF00B70BA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		472B246E1D15C6BF00B70BA9 /* Build configuration list for PBXNativeTarget "JuegoUITests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +509,7 @@
 				472B24701D15C6BF00B70BA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
